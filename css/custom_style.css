@@ -99,6 +99,9 @@ li{
     background-position:top left;
 	margin: 15px 0px;
 }
+.testimonial-box{
+	overflow:hidden;
+}
 .spacer{
 	height:200px;
 }
