@@ -101,6 +101,7 @@ li{
 }
 .testimonial-box{
 /*	overflow:hidden; */
+width: 100%;
 }
 .spacer{
 	height:200px;
